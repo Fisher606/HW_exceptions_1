@@ -18,4 +18,5 @@ public class Task1 {
     public static void main(String[] args) {
         System.out.println(divide(4,0));
         System.out.println(getArrayElement(new int[10]));
-        System.out.println(getArrayLen(new int[-1]));}
+        System.out.println(getArrayLen(new int[-1]));
+}
